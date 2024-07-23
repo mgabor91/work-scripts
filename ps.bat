@@ -1,0 +1,1 @@
+powershell -executionpolicy remotesigned -file YOUR_PS1_FILE.ps1

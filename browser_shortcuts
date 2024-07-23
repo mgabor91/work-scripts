@@ -1,0 +1,8 @@
+Internet Explorer
+"C:\Program Files\Internet Explorer\iexplore.exe" https://your-url-goes-here.com/
+
+FireFox
+"C:\Program Files\Mozilla Firefox\firefox.exe" https://your-url-goes-here.com/
+
+Chrome
+"C:\Program Files\Google\Chrome\Application\chrome.exe" https://your-url-goes-here.com/
